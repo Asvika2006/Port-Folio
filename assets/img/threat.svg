@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 270"><rect width="480" height="270" fill="#14213d"/>
+<g stroke="#2f6fe0" stroke-width="2" opacity=".7"><path d="M90 70L200 130 120 210M200 130L330 70 400 160 290 215 200 130M330 70L420 60M400 160L440 220M120 210L290 215"/></g>
+<g fill="#2f6fe0"><circle cx="90" cy="70" r="10"/><circle cx="200" cy="130" r="14"/><circle cx="120" cy="210" r="10"/><circle cx="330" cy="70" r="12"/><circle cx="400" cy="160" r="10"/><circle cx="290" cy="215" r="12"/><circle cx="420" cy="60" r="8"/><circle cx="440" cy="220" r="8"/></g>
+<circle cx="400" cy="160" r="26" fill="none" stroke="#f0624d" stroke-width="3" opacity=".6"/><circle cx="400" cy="160" r="40" fill="none" stroke="#f0624d" stroke-width="2" opacity=".3"/><circle cx="400" cy="160" r="12" fill="#f0624d"/>
+<g font-family="monospace" font-size="11" fill="#8fb0ff"><text x="20" y="28">log: pattern scan</text><text x="20" y="44" fill="#f0624d">anomaly detected</text></g></svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 270"><defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1b3a8c"/><stop offset="1" stop-color="#2f6fe0"/></linearGradient></defs><rect width="480" height="270" fill="url(#g)"/>
+<ellipse cx="240" cy="140" rx="62" ry="80" fill="#fff" opacity=".14" stroke="#fff" stroke-width="2.5"/>
+<g fill="#fff"><circle cx="216" cy="120" r="5"/><circle cx="264" cy="120" r="5"/><circle cx="240" cy="148" r="4"/><circle cx="222" cy="176" r="4"/><circle cx="258" cy="176" r="4"/><circle cx="240" cy="184" r="4"/><circle cx="190" cy="140" r="3"/><circle cx="290" cy="140" r="3"/></g>
+<path d="M216 120L240 148 264 120M222 176L240 184 258 176M190 140L216 120M290 140L264 120M240 148L222 176M240 148L258 176" stroke="#fff" stroke-width="1.5" fill="none" opacity=".8"/>
+<g fill="none" stroke="#f0624d" stroke-width="5" stroke-linecap="round"><path d="M150 76V52h24M330 52h24v24M150 204v24h24M354 204v24h-24"/></g>
+<rect x="200" y="238" width="80" height="18" rx="9" fill="#f0624d"/><text x="240" y="251" text-anchor="middle" font-family="sans-serif" font-weight="700" font-size="11" fill="#fff">verified</text></svg>
